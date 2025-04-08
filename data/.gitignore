@@ -4,3 +4,5 @@
 /pipeline.pkl
 /processed_train_data.csv
 /processed_test_data.csv
+/x_test.parquet
+/x_train.parquet
