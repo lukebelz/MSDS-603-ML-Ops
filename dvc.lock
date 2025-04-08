@@ -1,35 +1,26 @@
 schema: '2.0'
 stages:
   prepare:
-    cmd: python src/create_features_w_params.py
+    cmd: python src/preprocessing.py
     deps:
-    - path: data/adult.data
+    - path: data/world_happiness_report.csv
       hash: md5
-      md5: 5d7c39d7b8804f071cdd1f2a7c460872
-      size: 3974305
-    - path: data/adult.test
+      md5: 534481c77e715cbfdc95ed6ca4f95e0f
+      size: 552176
+    - path: src/preprocessing.py
       hash: md5
-      md5: 366c746021dc50ad9d933d2817612fc9
-      size: 2003132
-    - path: src/create_features.py
-      hash: md5
-      md5: b93aea27ba45f8b24bdd52928f1f2b99
-      size: 2564
-    params:
-      params.yaml:
-        features.chi2percentile: 50
-        features.test_path: data/adult.test
-        features.train_path: data/adult.data
+      md5: 9c4304113a5038b76ad68e9bd6dba54a
+      size: 3054
     outs:
     - path: data/pipeline.pkl
       hash: md5
-      md5: 2ff2f4415c961f1b4220d6b141e5f6f1
-      size: 6072
-    - path: data/processed_test_data.csv
+      md5: 9cf5357b354ee012e41a85cdfb8b6be6
+      size: 257311
+    - path: data/processed_world_happiness_test_data.csv
       hash: md5
-      md5: a59c8daac38fe1ca84dda2b458ee762a
-      size: 5409602
-    - path: data/processed_train_data.csv
+      md5: a5e260b1f48dd2f379d906f776836ab1
+      size: 95557510
+    - path: data/processed_world_happiness_train_data.csv
       hash: md5
-      md5: adf63b6ce20f7ee74f63d5dabb325226
-      size: 10829967
+      md5: bc9207241e03d6534d5e75cbe165e128
+      size: 379716469
