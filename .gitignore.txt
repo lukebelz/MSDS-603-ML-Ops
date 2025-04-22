@@ -1,0 +1,53 @@
+# Metaflow-related files
+.metaflow/
+**/.metaflow/
+
+# MLflow tracking files and artifacts
+mlruns/
+**/mlruns/
+**/artifacts/
+**/*.db
+predictions.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python-related
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Data files
+data/*
+# Uncomment to keep certain data files
+# !data/important_file.csv
+
+# Lab-specific files
+lab\ 2/mlruns/
+lab\ 2/artifacts/
+lab\ 2/images/
+lab\ 2/evidence*.png
+lab\ 2/world_happiness_report.csv
