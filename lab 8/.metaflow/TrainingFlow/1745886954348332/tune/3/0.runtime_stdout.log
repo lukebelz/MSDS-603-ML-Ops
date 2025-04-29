@@ -1,0 +1,1 @@
+[MFLOG|0|2025-04-29T00:36:03.874066Z|runtime|d6fc18e6-8b4b-4e48-8fb1-f24fb77a3ed4]Best params: {'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 100}

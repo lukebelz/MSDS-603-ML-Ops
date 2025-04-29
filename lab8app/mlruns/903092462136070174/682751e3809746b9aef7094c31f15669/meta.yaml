@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/evoheyax/Documents/MSDS/603%20-%20ML%20Ops/my%20files/MSDS-603-ML-Ops/lab8app/mlruns/903092462136070174/682751e3809746b9aef7094c31f15669/artifacts
+end_time: 1745888040505
+entry_point_name: ''
+experiment_id: '903092462136070174'
+lifecycle_stage: active
+run_id: 682751e3809746b9aef7094c31f15669
+run_name: casual-squirrel-342
+run_uuid: 682751e3809746b9aef7094c31f15669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745888036942
+status: 3
+tags: []
+user_id: evoheyax

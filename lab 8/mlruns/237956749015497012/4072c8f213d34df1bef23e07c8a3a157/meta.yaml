@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/evoheyax/Documents/MSDS/603%20-%20ML%20Ops/my%20files/MSDS-603-ML-Ops/lab%208/mlruns/237956749015497012/4072c8f213d34df1bef23e07c8a3a157/artifacts
+end_time: 1745886968967
+entry_point_name: ''
+experiment_id: '237956749015497012'
+lifecycle_stage: active
+run_id: 4072c8f213d34df1bef23e07c8a3a157
+run_name: skillful-fish-7
+run_uuid: 4072c8f213d34df1bef23e07c8a3a157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745886965409
+status: 3
+tags: []
+user_id: evoheyax

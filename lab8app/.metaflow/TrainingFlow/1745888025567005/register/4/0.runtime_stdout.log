@@ -1,0 +1,3 @@
+[MFLOG|0|2025-04-29T00:53:56.957897Z|runtime|99878384-a467-44c4-b978-7d4b6c46c5f3]Test MSE: 2.1047
+[MFLOG|0|2025-04-29T00:53:58.492612Z|runtime|c56fcfaf-e107-4271-9da6-64b15b07fda8]Registered model under name 'WorldHappinessModel_v2'
+[MFLOG|0|2025-04-29T00:54:00.505282Z|runtime|678dc267-935a-4d3d-be44-7dd80a3f5c04]Model version 1 promoted to Production!

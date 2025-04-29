@@ -1,0 +1,4 @@
+[MFLOG|0|2025-04-29T00:36:05.251188Z|runtime|3e69e7ec-0c0e-487a-bc78-fef0dfd69e8f]2025/04/28 17:36:05 INFO mlflow.tracking.fluent: Experiment with name 'WorldHappinessExperiment_v2' does not exist. Creating a new experiment.
+[MFLOG|0|2025-04-29T00:36:06.950757Z|runtime|a68172bb-e597-40fc-8331-4e58cac7d86f]Successfully registered model 'WorldHappinessModel_v2'.
+[MFLOG|0|2025-04-29T00:36:06.952342Z|runtime|afd0f687-7837-4217-bd7e-1e06e3d287b2]Created version '1' of model 'WorldHappinessModel_v2'.
+[MFLOG|0|2025-04-29T00:36:06.952444Z|runtime|6213c614-4edd-4e80-a987-130a91dbb71a]2025/04/28 17:36:06 WARNING mlflow.models.model: Input example should be provided to infer model signature if the model signature is not provided when logging the model.

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745886966951
+current_stage: Production
+description: null
+last_updated_timestamp: 1745886968959
+name: WorldHappinessModel_v2
+run_id: 4072c8f213d34df1bef23e07c8a3a157
+run_link: null
+source: file:///Users/evoheyax/Documents/MSDS/603%20-%20ML%20Ops/my%20files/MSDS-603-ML-Ops/lab%208/mlruns/237956749015497012/4072c8f213d34df1bef23e07c8a3a157/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/evoheyax/Documents/MSDS/603%20-%20ML%20Ops/my%20files/MSDS-603-ML-Ops/lab%208/mlruns/237956749015497012/4072c8f213d34df1bef23e07c8a3a157/artifacts/model
+user_id: null
+version: 1
